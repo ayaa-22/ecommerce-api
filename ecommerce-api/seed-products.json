@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Mobile",
+    "price": 55000,
+    "stock": 18,
+    "rating": 4.8,
+    "colors": [
+      "Black",
+      "Gray",
+      "Violet"
+    ],
+    "supplier": {
+      "name": "Samsung Egypt",
+      "city": "Cairo"
+    }
+  },
+  {
+    "name": "Redmi Note 13",
+    "brand": "Xiaomi",
+    "category": "Mobile",
+    "price": 12500,
+    "stock": 40,
+    "rating": 4.4,
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "supplier": {
+      "name": "Xiaomi Egypt",
+      "city": "Giza"
+    }
+  },
+  {
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "Laptop",
+    "price": 32000,
+    "stock": 10,
+    "rating": 4.5,
+    "colors": [
+      "Silver"
+    ],
+    "supplier": {
+      "name": "HP Egypt",
+      "city": "Cairo"
+    }
+  },
+  {
+    "name": "Asus ROG Strix G16",
+    "brand": "Asus",
+    "category": "Laptop",
+    "price": 68000,
+    "stock": 6,
+    "rating": 4.7,
+    "colors": [
+      "Black",
+      "Gray"
+    ],
+    "supplier": {
+      "name": "Asus Egypt",
+      "city": "Alexandria"
+    }
+  },
+  {
+    "name": "Galaxy Buds 3",
+    "brand": "Samsung",
+    "category": "Accessories",
+    "price": 6500,
+    "stock": 30,
+    "rating": 4.6,
+    "colors": [
+      "White",
+      "Silver"
+    ],
+    "supplier": {
+      "name": "Samsung Egypt",
+      "city": "Cairo"
+    }
+  },
+  {
+    "name": "JBL Flip 6",
+    "brand": "JBL",
+    "category": "Accessories",
+    "price": 4800,
+    "stock": 25,
+    "rating": 4.7,
+    "colors": [
+      "Black",
+      "Red",
+      "Blue"
+    ],
+    "supplier": {
+      "name": "JBL Egypt",
+      "city": "Giza"
+    }
+  },
+  {
+    "name": "Galaxy Watch 7",
+    "brand": "Samsung",
+    "category": "Wearables",
+    "price": 14000,
+    "stock": 12,
+    "rating": 4.5,
+    "colors": [
+      "Green",
+      "Silver"
+    ],
+    "supplier": {
+      "name": "Samsung Egypt",
+      "city": "Alexandria"
+    }
+  },
+  {
+    "name": "Galaxy Tab S9",
+    "brand": "Samsung",
+    "category": "Tablet",
+    "price": 33000,
+    "stock": 9,
+    "rating": 4.6,
+    "colors": [
+      "Graphite",
+      "Beige"
+    ],
+    "supplier": {
+      "name": "Samsung Egypt",
+      "city": "Cairo"
+    }
+  },
+  {
+    "name": "Anker PowerCore 20000",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 1800,
+    "stock": 60,
+    "rating": 4.8,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "supplier": {
+      "name": "Anker Egypt",
+      "city": "Giza"
+    }
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "brand": "Amazon",
+    "category": "Tablet",
+    "price": 7500,
+    "stock": 15,
+    "rating": 4.7,
+    "colors": [
+      "Black"
+    ],
+    "supplier": {
+      "name": "Amazon Egypt",
+      "city": "Cairo"
+    }
+  }
+]
